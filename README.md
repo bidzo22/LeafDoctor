@@ -3,7 +3,7 @@
 Вебсервіс на ASP.NET Core MVC, який за фото листка томата визначає, чи він здоровий,
 або розпізнає одну з хвороб. Модель навчена за допомогою AutoML (ML.NET).
 
-**🌐 Сайт:** _посилання на Azure буде тут_
+**🌐 Сайт:** https://leafdoctor-bidzo22-app-hafkerargucna2d4.germanywestcentral-01.azurewebsites.net
 
 ![Скриншот сайту](docs/screenshot.png)
 
